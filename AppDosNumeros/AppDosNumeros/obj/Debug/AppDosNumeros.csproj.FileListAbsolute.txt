@@ -1,0 +1,5 @@
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppDosNumeros\AppDosNumeros\bin\Debug\AppDosNumeros.exe.config
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppDosNumeros\AppDosNumeros\bin\Debug\AppDosNumeros.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppDosNumeros\AppDosNumeros\bin\Debug\AppDosNumeros.pdb
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppDosNumeros\AppDosNumeros\obj\Debug\AppDosNumeros.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppDosNumeros\AppDosNumeros\obj\Debug\AppDosNumeros.pdb
